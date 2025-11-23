@@ -1,0 +1,8 @@
+{
+  "name": "LOVE ROOM - 情侣日常",
+  "description": "情侣专属的私密空间，分享日常点滴，照片和聊天，更有AI情感助手相伴。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
